@@ -1,0 +1,67 @@
+{"timeStamp":"9/19/2020, 12:53:36 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:04 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:04 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:04 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:04 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:04 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"SELECT 1","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:19 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:20 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:21 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:22 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:23 AM","message":"COMMIT","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:25 AM","message":"============ Request For Create Feed back===============[object Object]","level":"info"}
+{"timeStamp":"9/19/2020, 12:57:25 AM","message":"BEGIN","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:25 AM","message":"INSERT INTO \"public\".\"feedback\" (\"message\",\"email\",\"first_name\",\"last_name\",\"created\",\"updated\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"feedback\".\"id\"","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:25 AM","message":"SELECT \"public\".\"feedback\".\"id\", \"public\".\"feedback\".\"message\", \"public\".\"feedback\".\"email\", \"public\".\"feedback\".\"first_name\", \"public\".\"feedback\".\"last_name\", \"public\".\"feedback\".\"created\", \"public\".\"feedback\".\"updated\" FROM \"public\".\"feedback\" WHERE \"public\".\"feedback\".\"id\" = $1 LIMIT $2 OFFSET $3","level":"error"}
+{"timeStamp":"9/19/2020, 12:57:25 AM","message":"COMMIT","level":"error"}
